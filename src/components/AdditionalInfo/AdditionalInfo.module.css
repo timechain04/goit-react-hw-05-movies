@@ -1,0 +1,19 @@
+.additionalWrap {
+    padding: 10px 150px;
+    border: 1px solid grey;
+}
+
+.additionalLink {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.additionalWrap li{
+    margin-bottom: 10px;
+}   
+
+.additionalLink:hover {
+    color: brown;
+}

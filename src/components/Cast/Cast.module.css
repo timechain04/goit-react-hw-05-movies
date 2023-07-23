@@ -1,0 +1,11 @@
+.CastList {
+    list-style: none;
+    padding: 20px 100px;
+    grid-gap: 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(150px, 1fr));
+}
+
+.CastItem {
+    text-align: center;
+}

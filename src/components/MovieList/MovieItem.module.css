@@ -1,0 +1,20 @@
+.item {
+    margin-bottom: 5px;
+    margin-left: 30px;
+  }
+
+  .item:last-child {
+    margin-bottom: 0;
+  }
+
+  .itemLink {
+    text-decoration: none;
+    color: #4b5320;
+  }
+
+  .itemLink:hover {
+    color: brown;
+  }
+
+
+

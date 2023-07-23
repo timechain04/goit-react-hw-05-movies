@@ -1,0 +1,27 @@
+.Searchbar {
+    margin: 40px 140px;
+
+}
+
+.Searchbar input {
+
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    padding: 5px;
+    min-width: 250px;
+}
+
+.Searchbar button {
+    margin-left: 10px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    font-weight: 700;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: burlywood;
+    border-color: brown;
+    transition: background-color .25s;
+}
+
+.Searchbar button:hover {
+    background-color: lightblue;
+}

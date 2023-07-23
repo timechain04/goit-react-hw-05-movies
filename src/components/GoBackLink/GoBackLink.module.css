@@ -1,0 +1,25 @@
+.goBackBtn {
+    background-color: aliceblue;
+    margin-left: 90px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+
+    padding: 5px;
+    cursor: pointer;
+    background-color: burlywood;
+    border-color: brown;
+    transition: background-color .25s;
+}
+
+.goBackBtn:hover {
+    background-color: lightblue;
+}
+
+.GoBackLink {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}

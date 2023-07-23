@@ -1,0 +1,28 @@
+.mainnav {
+  margin-left: 150px;
+}
+
+.active {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 20px;
+  margin-right: 50px;
+  text-decoration: none;
+  color: red;
+}
+
+.active:last-child {
+  margin-right: 0;
+}
+
+.navitem {
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+  font-weight: 600;
+  margin-right: 50px;
+}
+
+.navitem:last-child {
+  margin-right: 0;
+}

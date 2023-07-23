@@ -12,7 +12,7 @@ export const MovieItem = ({ filmTitle, movieId }) => {
         to={`/movies/${movieId}`}
         state={{ from: location }}
       >
-        {filmTitle}
+       {filmTitle}
       </Link>
     </li>
   );
